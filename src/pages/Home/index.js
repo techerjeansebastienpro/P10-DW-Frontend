@@ -126,7 +126,7 @@ const Page = () => {
       </div>
       <div className="col contact">
         <h3>Contactez-nous</h3>
-        <address>45 avenue de la République, 75000 Paris</address>
+        <address>45 avenue de la Bachelette, 75000 Paris</address>
         <div>01 23 45 67 89</div>
         <div>contact@77events.com</div>
         <div>
@@ -147,10 +147,7 @@ const Page = () => {
       <div className="col description">
         <Logo size="large" />
         <p>
-          Une agence événementielle propose des prestations de service
-          spécialisées dans la conception et l&apos;organisation de divers événements
-          tels que des événements festifs, des manifestations sportives et
-          culturelles, des événements professionnels
+          L’agence événementielle vous propose des prestations de service spécialisées dans la conception et l&apos;organisation de divers événements tels que des événements festifs, des manifestations sportives et culturelles, des événements professionnels
         </p>
       </div>
     </footer>

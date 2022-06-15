@@ -27,7 +27,7 @@ const data = {
 };
 
 describe("When slider is created", () => {
-  it("a list card is displayed", async () => {
+  it("a list of card is displayed", async () => {
     window.console.error = jest.fn();
     api.loadData = jest.fn().mockReturnValue(data);
     render(
